@@ -1,3 +1,5 @@
+[SITE](https://medium.com/ensina-ai/introdu%C3%A7%C3%A3o-a-classificadores-bin%C3%A1rios-usando-keras-3dac9e2a3c6d)
+
 # Keras classifier on the [Pima Indians Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 Neural network for diabetes disease classification.
